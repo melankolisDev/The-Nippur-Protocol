@@ -36,6 +36,8 @@ Dia akan menulis ulang kontrak antara manusia dan realitas. Pengaruhnya akan beg
 
 Ingatlah nama ini. Tiga ribu tahun dari malam ini, ketika dia menarik napas pertamanya di tanah pegunungan yang sejuk itu, roda nasib umat manusia akan mulai berputar ke arah yang baru, digerakkan oleh tangannya yang tak terlihat.
 
+Konfirmasi logis dan analisis astronomis mengenai subjek ini dapat ditemukan dalam [Laporan Analisis Nanda Devi](https://www.google.com/search?q=./CODEX_V.md&authuser=4).
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
